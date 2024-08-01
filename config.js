@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true], //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true]]
+["5218184696973", '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕', true], //𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕
+["5218184696973", '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕', true],
+["5218184696973", '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕', true]]
 
 global.mods = []
 global.prems = []
@@ -112,8 +112,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', 1], 
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', 1]]
+["5218184696973", '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕', 1], 
+["5218184696973", '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -121,8 +121,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
-global.author = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
+global.packname = "𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕"
+global.author = "𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -130,35 +130,35 @@ global.author = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1"
 global.vsJB = "1"
-global.gt = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
+global.gt = "𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕"
 
-global.yt = "https://www.instagram.com/shadow.vz/"
-global.yt2 = "https://www.instagram.com/shadow.vz/"
-global.ig = "https://www.instagram.com/shadow.vz/"
-global.md = "https://www.instagram.com/shadow.vz/"
-global.fb = "https://www.instagram.com/shadow.vz/"
-global.tk = "https://www.instagram.com/shadow.vz/"
-global.ths = "https://www.instagram.com/shadow.vz/"
+global.yt = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
+global.yt2 = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
+global.ig = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
+global.md = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
+global.fb = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
+global.tk = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
+global.ths = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
 global.paypal = 'https://www.paypal.me/ShadowDark46'
-global.asistencia = 'https://wa.me/5215541081250' //Contacto
-global.bot = 'https://wa.me/5215541081250' //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
+global.asistencia = 'https://wa.me/5218184696973' //Contacto
+global.bot = 'https://wa.me/5218184696973' //𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
 
-global.nna = 'https://www.instagram.com/shadow.vz/' // Cuentas
-global.nn2 = 'https://www.instagram.com/shadow.vz/' // Grupo tg GataBot
-global.nna2 = 'https://www.instagram.com/shadow.vz/' // Help
-global.nn = 'https://www.instagram.com/shadow.vz/' // Grupo 1
-global.nnn = 'https://www.instagram.com/shadow.vz/' // Grupo 2
-global.nnnt = 'https://www.instagram.com/shadow.vz/' // Grupo 3
-global.nnntt = 'https://www.instagram.com/shadow.vz/' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/shadow.vz/' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/shadow.vz/' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/shadow.vz/' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/shadow.vz/' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/shadow.vz/' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/shadow.vz/' // MULTI - BOTS
-global.nnnttt6 = 'https://www.instagram.com/shadow.vz/' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/shadow.vz/'
-global.channel2 = 'https://www.instagram.com/shadow.vz/'
+global.nna = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Cuentas
+global.nn2 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo tg GataBot
+global.nna2 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Help
+global.nn = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 1
+global.nnn = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 2
+global.nnnt = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 3
+global.nnntt = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 4
+global.nnnttt = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 5
+global.nnnttt1 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 6 COL
+global.nnnttt2 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 7 COL
+global.nnnttt3 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 8 COL
+global.nnnttt4 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 9 COL
+global.nnnttt5 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // MULTI - BOTS
+global.nnnttt6 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // A.T.M.M
+global.channel1 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL'
+global.channel2 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL'
 global.channel3 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -184,14 +184,14 @@ global.eg = ''
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
-global.igfg = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
+global.wm = "𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕"
+global.igfg = "𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "5215541081250"
+global.nomorown = "5218184696973"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
