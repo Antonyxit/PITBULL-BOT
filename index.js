@@ -93,7 +93,6 @@ console.log(chalk.yellow(`╭${lineM}
 ┊${chalk.blueBright('┊')}${chalk.blueBright('┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')} 
 ┊${chalk.blueBright('┊')}${chalk.yellow(`💜 Creadores:`)}
 ┊${chalk.blueBright('┊')}${chalk.yellow(`• DANNY')}
-┊${chalk.blueBright('┊')}${chalk.yellow(`• ANTONYYXT')}
 ┊${chalk.blueBright('╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')} 
 ┊${chalk.blueBright('╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')}
 ┊${chalk.blueBright('┊')}${chalk.cyan(`⏰ Hora Actual :`)}
