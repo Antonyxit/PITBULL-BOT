@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["5218184696973", '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕', true], //𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕
-["5218184696973", '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕', true],
-["5218184696973", '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕', true]]
+["‎5214794070450", '𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕', true], //𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕
+["5214794070450", '𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕', true],
+["5214794070450", '𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕', true]]
 
 global.mods = []
 global.prems = []
@@ -112,8 +112,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5218184696973", '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕', 1], 
-["5218184696973", '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕', 1]]
+["5214794070450", '𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕', 1], 
+["5214794070450", '𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -121,8 +121,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕"
-global.author = "𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕"
+global.packname = "𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕"
+global.author = "𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -130,36 +130,36 @@ global.author = "𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1"
 global.vsJB = "1"
-global.gt = "𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕"
+global.gt = "𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕"
 
-global.yt = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
-global.yt2 = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
-global.ig = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
-global.md = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
-global.fb = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
-global.tk = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
-global.ths = "https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL"
-global.paypal = 'https://www.paypal.me/ShadowDark46'
-global.asistencia = 'https://wa.me/5218184696973' //Contacto
-global.bot = 'https://wa.me/5218184696973' //𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
+global.yt = "https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU"
+global.yt2 = "https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU"
+global.ig = "https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU"
+global.md = "https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU"
+global.fb = "https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU"
+global.tk = "https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU"
+global.ths = "https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU"
+global.paypal = ''
+global.asistencia = 'https://wa.me/5214794070450' //Contacto
+global.bot = 'https://wa.me/5214794070450' //𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
 
-global.nna = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Cuentas
-global.nn2 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo tg GataBot
+global.nna = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // Cuentas
+global.nn2 = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // Grupo tg GataBot
 global.nna2 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Help
-global.nn = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 1
-global.nnn = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 2
-global.nnnt = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 3
+global.nn = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // Grupo 1
+global.nnn = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // Grupo 3
 global.nnntt = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 4
-global.nnnttt = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 5
-global.nnnttt1 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 6 COL
-global.nnnttt2 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 7 COL
-global.nnnttt3 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 8 COL
-global.nnnttt4 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // Grupo 9 COL
-global.nnnttt5 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // MULTI - BOTS
-global.nnnttt6 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL' // A.T.M.M
-global.channel1 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL'
-global.channel2 = 'https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL'
-global.channel3 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
+global.nnnttt = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // MULTI - BOTS
+global.nnnttt6 = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU' // A.T.M.M
+global.channel1 = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU'
+global.channel2 = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU'
+global.channel3 = 'https://chat.whatsapp.com/IeaDluDNseK4XJMhNzD7RU'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
@@ -184,14 +184,14 @@ global.eg = ''
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕"
-global.igfg = "𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕"
+global.wm = "𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕"
+global.igfg = "𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "5218184696973"
+global.nomorown = "5214794070450"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
