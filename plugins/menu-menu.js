@@ -84,20 +84,19 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu =`
- ╭━     💜  𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋  𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻  💋
  ┃
  ┃    𝑯𝒐𝒍𝒂, ${taguser}
  ┃
- ┃   𝐃𝐮𝐞𝐧̃𝐚 : Kᴀᴛᴛʏ Pʀɪɴᴛ 💜 
- ┃   𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 : wa.me/528184696973
- ┃   𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : https://www.facebook.com/profile.php?id=61557150088893&mibextid=ZbWKwL
+ ┃   𝐃𝐮𝐞𝐧̃𝐚 : ᴍᴀʀʏ ᴠɴᴛꜱ 💋
+ ┃   𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 : wa.me/5214794070450
  ┃   𝐓𝐢𝐞𝐦𝐩𝐨 𝐀𝐜𝐭𝐢𝐯𝐨 : ${uptime}
  ┃
  ╰━━━━━━━━━━━━
 
 
   
- ╭━      💜 𝑰𝒏𝒇𝒐 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━      💋 𝑰𝑵𝑭𝑶 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻  💋
  ┃
  ┃   ${usedPrefix}listagrupos
  ┃   ${usedPrefix}estado
@@ -108,7 +107,7 @@ let menu =`
 
  
   
- ╭━      💜 𝑭𝑭 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕  💜 
+ ╭━      💋 𝑭𝑭  𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻  💋
  ┃
  ┃   ${usedPrefix}Lista3 / Lista De Actividades
  ┃   ${usedPrefix}Masc18 / Lista Masc 18
@@ -140,7 +139,7 @@ let menu =`
  
 
   
- ╭━     💜 𝑱𝒖𝒆𝒈𝒐𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑱𝑼𝑬𝑮𝑶𝑺 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻  💋
  ┃
  ┃   ${usedPrefix}mates | matemáticas | math
  ┃   ${usedPrefix}lanzar *cara* | *cruz*
@@ -191,7 +190,7 @@ let menu =`
   
 
 
- ╭━     💜 𝑨𝒋𝒖𝒔𝒕𝒆𝒔 𝑫𝒆 𝑮𝒓𝒖𝒑𝒐 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━    💋 𝑨𝑱𝑼𝑺𝑻𝑬𝑺 𝑫𝑬𝑳 𝑮𝑹𝑼𝑷𝑶 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋
  ┃
  ┃   ${usedPrefix}enable *o* disable *bienvenida | welcome*
  ┃   ${usedPrefix}enable *o* disable *avisos | detect*
@@ -225,7 +224,7 @@ let menu =`
 
  
 
- ╭━     💜 𝑫𝒆𝒔𝒄𝒂𝒓𝒈𝒂𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑫𝑬𝑺𝑪𝑨𝑹𝑮𝑨𝑺 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋
  ┃
  ┃   ${usedPrefix}imagen | image *texto*
  ┃   ${usedPrefix}pinterest | dlpinterest *texto*
@@ -259,7 +258,7 @@ let menu =`
 
 
 
- ╭━     💜 𝑪𝒉𝒂𝒕 𝑨𝒏𝒐𝒏𝒊𝒎𝒐 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑪𝑯𝑨𝑻 𝑨𝑵𝑶𝑵𝑰𝑴𝑶 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋
  ┃
  ┃   ${usedPrefix}chatanonimo | anonimochat
  ┃   ${usedPrefix}anonimoch
@@ -271,7 +270,7 @@ let menu =`
 
  
 
- ╭━     💜 𝑪𝒐𝒎𝒂𝒏𝒅𝒐𝒔 𝑮𝒓𝒖𝒑𝒐𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑪𝑶𝑴𝑨𝑵𝑫𝑶𝑺 𝑫𝑬𝑳 𝑮𝑹𝑼𝑷𝑶 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋
  ┃
  ┃   ${usedPrefix}add *numero*
  ┃   ${usedPrefix}sacar | ban | kick  *@tag*
@@ -310,7 +309,7 @@ let menu =`
 
  
 
- ╭━     💜 𝑷𝒂𝒓𝒆𝒋𝒂𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑷𝑨𝑹𝑬𝑱𝑨𝑺 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋 
  ┃
  ┃   ${usedPrefix}listaparejas | listship
  ┃   ${usedPrefix}mipareja | mylove
@@ -323,7 +322,7 @@ let menu =`
 
 
 
- ╭━     💜 𝑽𝒐𝒕𝒂𝒅𝒐𝒓𝒆𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑽𝑶𝑻𝑨𝑫𝑶𝑹𝑬𝑺 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋
  ┃
  ┃   ${usedPrefix}crearvoto | startvoto *texto*
  ┃   ${usedPrefix}sivotar | upvote
@@ -333,7 +332,7 @@ let menu =`
  ┃
  ╰━━━━━━━━━━━━━
 
- ╭━     💜 𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒊𝒅𝒐𝒓𝒆𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑪𝑶𝑵𝑽𝑬𝑹𝑻𝑰𝑫𝑶𝑹𝑬𝑺 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋 
  ┃
  ┃   ${usedPrefix}toimg | img | jpg *sticker*
  ┃   ${usedPrefix}toanime | jadianime *foto*
@@ -346,14 +345,14 @@ let menu =`
  ┃
  ╰━━━━━━━━━━━━━
 
- ╭━     💜 𝑳𝒐𝒈𝒐𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑳𝑶𝑮𝑶 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋 
  ┃
  ┃   ${usedPrefix}logos *efecto texto*
  ┃   ${usedPrefix}menulogos2
  ┃
  ╰━━━━━━━━━━━━━
   
- ╭━     💜 𝑳𝒐𝒈𝒐𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜
+ ╭━     💋 𝑳𝑶𝑮𝑶 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋
  ┃
  *┃  * _${usedPrefix}simpcard *@tag*_
  *┃  * _${usedPrefix}hornycard *@tag*_
@@ -367,7 +366,7 @@ let menu =`
 
   
 
- ╭━     💜 𝑭𝒂𝒏𝒕𝒂𝒔𝒚 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑭𝑨𝑵𝑻𝑨𝑺𝒀 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋
  ┃
  ┃   ${usedPrefix}fantasy | fy
  ┃   ${usedPrefix}fyguia | fyguide
@@ -382,7 +381,7 @@ let menu =`
 
 
   
- ╭━     💜 𝑨𝒏𝒊𝒎𝒆𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━      💋 𝑨𝑵𝑰𝑴𝑬 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋 
  ┃
  ┃   ${usedPrefix}chica
  ┃   ${usedPrefix}chico
@@ -439,7 +438,7 @@ let menu =`
 
  
   
- ╭━     💜 𝑬𝒇𝒆𝒄𝒕𝒐𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜
+ ╭━     💋 𝑬𝑭𝑬𝑪𝑻𝑶𝑺 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋
  ┃
  ┃   ${usedPrefix}bass
  ┃   ${usedPrefix}blown
@@ -458,7 +457,7 @@ let menu =`
 
  
   	
- ╭━     💜 𝑩𝒖𝒔𝒒𝒖𝒆𝒅𝒂𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜
+ ╭━     💋 𝑩𝑼𝑺𝑸𝑼𝑬𝑫𝑨 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋
  ┃
  ┃   ${usedPrefix}animeinfo *texto*
  ┃   ${usedPrefix}anuel
@@ -477,7 +476,7 @@ let menu =`
 
  
 
- ╭━     💜 𝑯𝒆𝒓𝒓𝒂𝒎𝒊𝒆𝒏𝒕𝒂𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑯𝑬𝑹𝑹𝑨𝑴𝑰𝑬𝑵𝑻𝑨𝑺 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋 
  ┃
  ┃   ${usedPrefix}afk *motivo*
  ┃   _${usedPrefix}acortar *url*
@@ -497,7 +496,7 @@ let menu =`
 
 
  
- ╭━     💜 𝑹𝑷𝑮 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑹𝑷𝑮 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋 
  ┃
  ┃   ${usedPrefix}pase premium
  ┃   ${usedPrefix}pass premium
@@ -543,11 +542,11 @@ let menu =`
 
  
 
- ╭━     💜 𝑻𝒐𝒑 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑻𝑶𝑷 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋 
  ┃   ${usedPrefix}top
  ╰━━━━━━━━━━━━━
   
- ╭━     💜 𝑺𝒕𝒊𝒄𝒌𝒆𝒓𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑺𝑻𝑰𝑪𝑲𝑬𝑹𝑺 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋 
  ┃
  ┃   ${usedPrefix}sticker | s *imagen o video*
  ┃   ${usedPrefix}sticker | s *url de tipo jpg*
@@ -569,14 +568,14 @@ let menu =`
  ┃
  ╰━━━━━━━━━━━━━
   
- ╭━     💜 𝑺𝒕𝒊𝒄𝒌𝒆𝒓𝒔2 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑺𝑻𝑰𝑪𝑲𝑬𝑹𝑺2 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋 
  ┃
  ┃   ${usedPrefix}wm *packname|author*
  ┃   ${usedPrefix}wm *texto1|texto2*
  ┃
  ╰━━━━━━━━━━━━━
   
- ╭━     💜 𝑺𝒕𝒊𝒄𝒌𝒆𝒓𝒔3 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑺𝑻𝑰𝑪𝑲𝑬𝑹𝑺3 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋 
  ┃
  ┃   ${usedPrefix}palmaditas | pat *@tag*
  ┃   ${usedPrefix}bofetada | slap *@tag*
@@ -588,13 +587,13 @@ let menu =`
 
  
   
- ╭━     💜 𝑶𝒘𝒏𝒆𝒓𝒔 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 💜 
+ ╭━     💋 𝑶𝑾𝑵𝑬𝑹𝑺 𝑺𝑻𝑰𝑪𝑯 𝑩𝑶𝑻 💋 
  ┃
  ┃   ${usedPrefix}join *enlace*
  ┃   ${usedPrefix}unete *enlace*
  ┃   ${usedPrefix}dardiamantes *cantidad*
  ┃   ${usedPrefix}darxp *cantidad*
- ┃   ${usedPrefix}dar𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕coins *cantidad*
+ ┃   ${usedPrefix}darStichcoins *cantidad*
  ┃   ${usedPrefix}addprem | userpremium *@tag* *cantidad*
  ┃   ${usedPrefix}addprem2 | userpremium2 *@tag* *cantidad*
  ┃   ${usedPrefix}addprem3 | userpremium3 *@tag* *cantidad*
@@ -608,7 +607,7 @@ let menu =`
  ┃   ${usedPrefix}comunicargrupos *texto*
  ┃   ${usedPrefix}borrartmp | cleartmp
  ┃   ${usedPrefix}delexp *@tag*
- ┃   ${usedPrefix}del𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕coins *@tag*
+ ┃   ${usedPrefix}delStichcoins *@tag*
  ┃   ${usedPrefix}deldiamantes *@tag*
  ┃   ${usedPrefix}reiniciar | restart
  ┃   ${usedPrefix}actualizar | update
@@ -617,9 +616,9 @@ let menu =`
  ┃   ${usedPrefix}listapremium | listprem
  ┃   ${usedPrefix}añadirdiamantes *@tag cantidad*
  ┃   ${usedPrefix}añadirxp *@tag cantidad*
- ┃   ${usedPrefix}añadir𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕coins *@tag cantidad*
+ ┃   ${usedPrefix}añadir Stichcoins *@tag cantidad*
  ┃
- ╰━━━━━━━ 𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕 ━━━━━━
+ ╰━━━━━━━ 𝑺𝒕𝒊𝒄𝒉 𝑩𝒐𝒕 ━━━━━━
 `.trim()
 await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕� 𝗕𝗼𝘁 💜', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
