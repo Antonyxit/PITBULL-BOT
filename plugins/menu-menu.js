@@ -523,7 +523,7 @@ let menu =`
  ┃   ${usedPrefix}myns
  ┃   ${usedPrefix}unreg *numero de serie*
  ┃   ${usedPrefix}minardiamantes | minargemas
- ┃   ${usedPrefix}minar𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕coins | minarcoins
+ ┃   ${usedPrefix}minar 𝑺𝒕𝒊𝒄𝒉 𝑩𝒐𝒕coins | minarcoins
  ┃   ${usedPrefix}minarexperiencia | minarexp
  ┃   ${usedPrefix}minar *:* minar2 *:* minar3
  ┃   ${usedPrefix}rob | robar 
@@ -620,7 +620,7 @@ let menu =`
  ┃
  ╰━━━━━━━ 𝑺𝒕𝒊𝒄𝒉 𝑩𝒐𝒕 ━━━━━━
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝑲𝒂𝒕𝒕𝒚 𝑩𝒐𝒕� 𝗕𝗼𝘁 💜', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝑺𝒕𝒊𝒄𝒉 𝑩𝒐𝒕� 𝗕𝗼𝘁 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {
