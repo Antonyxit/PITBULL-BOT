@@ -112,7 +112,7 @@ let menu =`
  *┃➤* _${usedPrefix}Porno_
  *┃➤* _${usedPrefix}RamdonXxx_
  *┃➤* _${usedPrefix}Pechos_
-  ╰━━━━━━𝑺𝒕𝒊𝒄𝒉 𝑩𝒐𝒕━━━━━━━`.trim()
+  ╰━━━━━━𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕━━━━━━━`.trim()
 await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝗠𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 💦', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
