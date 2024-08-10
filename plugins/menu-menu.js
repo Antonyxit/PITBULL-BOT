@@ -84,18 +84,19 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu =`
- ╭━     💋  𝑵𝑨𝑻𝑰 𝑭𝑨𝑻𝑰 𝑩𝑶𝑻  💋
+ ╭━     🤖⚡ 𝐍𝐚𝐫𝐮 𝐁𝐨𝐭 🤖⚡
  ┃
  ┃    𝑯𝒐𝒍𝒂, ${taguser}
  ┃
- ┃   𝐃𝐮𝐞𝐧̃𝐚 : 𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 💋
- ┃   𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 : wa.me/5219984897022
+ ┃   𝐃𝐮𝐞𝐧̃o : 𝐍𝐚𝐫𝐮 𝐁𝐨𝐭
+ ┃   𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 : wa.me/525591192358
+ ┃   𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽2 : wa.me/528182006265
  ┃   𝐓𝐢𝐞𝐦𝐩𝐨 𝐀𝐜𝐭𝐢𝐯𝐨 : ${uptime}
  ┃
  ╰━━━━━━━━━━━━
 
   
-*╭━〔 INFORMACIÓN DE 𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 〕⬣*
+*╭━〔 INFORMACIÓN DE 𝐍𝐚𝐫𝐮 𝐁𝐨𝐭  〕⬣*
 ┃💫➺ _${usedPrefix}cuentas_
 ┃💫➺ _${usedPrefix}grupos_
 ┃💫➺ _${usedPrefix}donar | donate_
@@ -151,7 +152,7 @@ let menu =`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a 𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 en Grupos!!*
+┃ *Une a 𝐍𝐚𝐫𝐮 𝐁𝐨𝐭  en Grupos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
 *╰━━━━━━━━━━━━⬣*
@@ -302,7 +303,7 @@ let menu =`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ CONFIGURACIÓN - GRUPOS ]━⬣*
-┃ *Mejora tú Grupo con 𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊!!*
+┃ *Mejora tú Grupo con 𝐍𝐚𝐫𝐮 𝐁𝐨𝐭 !!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🌐➺ _${usedPrefix}add *numero*_
 ┃🌐➺ _${usedPrefix}sacar | ban | kick  *@tag*_
@@ -548,7 +549,7 @@ let menu =`
 ┃⚗️➺ _${usedPrefix}trabajar | work_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━━━[ TOP EN 𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 ]━━⬣*
+*╭━━━[ TOP EN 𝐍𝐚𝐫𝐮 𝐁𝐨𝐭 ]━━⬣*
 ┃ *Averigua en que Top te encuentras!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🏆➺ _${usedPrefix}top | lb | leaderboard_
@@ -627,7 +628,7 @@ let menu =`
 ┃💎➺ _${usedPrefix}añadirxp *@tag cantidad*_
 ┃💎➺ _${usedPrefix}añadirgatacoins *@tag cantidad*_
 *╰━━━━━━━━━━━━⬣*`.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕� 𝗕𝗼𝘁 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝐍𝐚𝐫𝐮 𝐁𝐨𝐭  𝗕𝗼𝘁 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {
