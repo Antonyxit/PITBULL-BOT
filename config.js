@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["‎5219984897022", '𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕', true], //𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕
-["5219984897022", '𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕', true],
-["5219984897022", '𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕', true]]
+["‎525591192358", '𝑵𝒂𝒓𝒖 𝑩𝒐𝒕 𝑩𝒐𝒕', true], //𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕
+["525591192358", '𝑵𝒂𝒓𝒖 𝑩𝒐𝒕 𝑩𝒐𝒕', true],
+["528182006265", '𝑵𝒂𝒓𝒖 𝑩𝒐𝒕 𝑩𝒐𝒕', true]]
 
 global.mods = []
 global.prems = []
@@ -112,8 +112,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5219984897022", '𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕', 1], 
-["5219984897022", '𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕', 1]]
+["525591192358", '𝑵𝒂𝒓𝒖 𝑩𝒐𝒕 𝑩𝒐𝒕', 1], 
+["525591192358", '𝑵𝒂𝒓𝒖 𝑩𝒐𝒕 𝑩𝒐𝒕', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -121,8 +121,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕"
-global.author = "𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕"
+global.packname = "𝑵𝒂𝒓𝒖 𝑩𝒐𝒕"
+global.author = "𝑵𝒂𝒓𝒖 𝑩𝒐𝒕"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -130,36 +130,36 @@ global.author = "𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1"
 global.vsJB = "1"
-global.gt = "𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕"
+global.gt = "𝑵𝒂𝒓𝒖 𝑩𝒐𝒕"
 
-global.yt = "https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB"
-global.yt2 = "https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB"
-global.ig = "https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB"
-global.md = "https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB"
-global.fb = "https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB"
-global.tk = "https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB"
-global.ths = "https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB"
+global.yt = "https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q"
+global.yt2 = "https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q"
+global.ig = "https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q"
+global.md = "https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q"
+global.fb = "https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q"
+global.tk = "https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q"
+global.ths = "https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q"
 global.paypal = ''
-global.asistencia = 'https://wa.me/5219984897022' //Contacto
-global.bot = 'https://wa.me/5219984897022' //𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
+global.asistencia = 'https://wa.me/525591192358' //Contacto
+global.bot = 'https://wa.me/525591192358' //𝙎𝙩𝙞𝙘𝙝 𝑩𝒐𝒕 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
 
-global.nna = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Cuentas
-global.nn2 = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Grupo tg GataBot
-global.nna2 = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Help
-global.nn = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Grupo 1
-global.nnn = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // MULTI - BOTS
-global.nnnttt6 = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB' // A.T.M.M
-global.channel1 = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB'
-global.channel2 = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB'
-global.channel3 = 'https://chat.whatsapp.com/DPJPGAenwII0sBvoZhxODB'
+global.nna = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Cuentas
+global.nn2 = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Grupo tg GataBot
+global.nna2 = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Help
+global.nn = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Grupo 1
+global.nnn = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // MULTI - BOTS
+global.nnnttt6 = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q' // A.T.M.M
+global.channel1 = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q'
+global.channel2 = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q'
+global.channel3 = 'https://chat.whatsapp.com/G8Qk5uWiWSX6NNvE2DiE7q'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
@@ -184,14 +184,14 @@ global.eg = ''
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕"
-global.igfg = "𝑵𝒂𝒕𝒊 𝑭𝒂𝒕𝒊 𝑩𝒐𝒕"
+global.wm = "𝑵𝒂𝒓𝒖 𝑩𝒐𝒕 𝑩𝒐𝒕"
+global.igfg = "𝑵𝒂𝒓𝒖 𝑩𝒐𝒕 𝑩𝒐𝒕"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "5219984897022"
+global.nomorown = "525591192358"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
